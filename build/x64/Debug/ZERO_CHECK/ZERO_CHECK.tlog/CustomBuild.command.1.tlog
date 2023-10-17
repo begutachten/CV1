@@ -1,0 +1,10 @@
+^C:\USERS\LINUS\DESKTOP\LINUS\START\CV1\BUILD\CMAKEFILES\9B79EC89699CBE15B69B72023CAB7912\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Linus/Desktop/Linus/Start/CV1 -BC:/Users/Linus/Desktop/Linus/Start/CV1/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Linus/Desktop/Linus/Start/CV1/build/CV_Ex.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

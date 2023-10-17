@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Linus\Desktop\Linus\Start\CV1\build\CMakeFiles\9b79ec89699cbe15b69b72023cab7912\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{79B9569D-81B0-36F0-B40F-6BCB7DB97EE9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,3 @@
+C:/Users/Linus/Desktop/Linus/Start/CV1/build/CMakeFiles/CV_Ex.dir
+C:/Users/Linus/Desktop/Linus/Start/CV1/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Linus/Desktop/Linus/Start/CV1/build/CMakeFiles/ZERO_CHECK.dir
